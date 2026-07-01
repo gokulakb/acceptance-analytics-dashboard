@@ -1,0 +1,14 @@
+{
+  "name": "acceptance-analytics-dashboard",
+  "version": "1.0.0",
+  "description": "Executive-ready acceptance analytics dashboard powered by Node.js, Express, SQLite, and Chart.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.0"
+  }
+}
